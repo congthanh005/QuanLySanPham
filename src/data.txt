@@ -1,0 +1,8 @@
+P02,camm,4,5.6
+P04,Apple,4,4.5
+P05,Apple,4,4.5
+P06,Apple,4,4.5
+P07,Apple,4,4.5
+p02,cam,3,4.2
+P10,Quýt,4,5.3
+P01,taos,5,4.3
